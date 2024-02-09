@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bibliography-full-profile-website/static/css/main.67635568.css",
-    "main.js": "/bibliography-full-profile-website/static/js/main.738c7766.js",
+    "main.js": "/bibliography-full-profile-website/static/js/main.b584537d.js",
     "index.html": "/bibliography-full-profile-website/index.html",
     "main.67635568.css.map": "/bibliography-full-profile-website/static/css/main.67635568.css.map",
-    "main.738c7766.js.map": "/bibliography-full-profile-website/static/js/main.738c7766.js.map"
+    "main.b584537d.js.map": "/bibliography-full-profile-website/static/js/main.b584537d.js.map"
   },
   "entrypoints": [
     "static/css/main.67635568.css",
-    "static/js/main.738c7766.js"
+    "static/js/main.b584537d.js"
   ]
 }
